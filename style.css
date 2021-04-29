@@ -1,0 +1,62 @@
+html {
+  scroll-behavior: smooth;
+}
+.bgn {
+  background-color: #922f9b;
+}
+.centr {
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.centrs {
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.btn {
+  margin-top: 40px;
+  border-color: orangered;
+}
+.nav-link {
+  color: white !important;
+}
+.wgt {
+  font-weight: 900;
+  color: white;
+}
+.white {
+  color: white !important;
+}
+.blue {
+  color: rgb(9, 206, 206);
+}
+.btn-white {
+  border-color: rgb(232, 211, 159);
+  background-color: white;
+}
+
+.img-center {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 80%;
+  height: auto;
+  min-height: 90px;
+  max-width: 80%;
+}
+
+.abt-img {
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 150px;
+  min-height: 150px;
+  max-width: 150px;
+  margin-top: 10%;
+}
+.abt-cntr {
+  text-align: center;
+}
